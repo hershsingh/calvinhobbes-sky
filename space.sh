@@ -4,7 +4,7 @@
 resolution=1600x900
 img_src=sky/sky0.jpg
 img_output=background.png
-img_calvinhobbes=c_clear_lower.png
+img_calvinhobbes=calvinhobbes_clear.png
 
 # Intermediate Images
 img_black=black.png
